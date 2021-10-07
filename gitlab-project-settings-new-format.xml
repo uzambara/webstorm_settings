@@ -1,0 +1,18 @@
+<application>
+  <component name="SettingsState">
+    <option name="gitlabServers">
+      <list>
+        <GitlabServer>
+          <option name="apiToken" value="MkQBLWGFBDL-r3MvYozF" />
+          <option name="apiUrl" value="https://gitlab.td.gfk.com/" />
+          <option name="repositoryUrl" value="gitlab.td.gfk.com" />
+        </GitlabServer>
+        <GitlabServer>
+          <option name="apiToken" value="4BxJrGt3Hfn_BYxSxRw_" />
+          <option name="apiUrl" value="https://gitlab.ship-cheaper.com/" />
+          <option name="repositoryUrl" value="gitlab.ship-cheaper.com" />
+        </GitlabServer>
+      </list>
+    </option>
+  </component>
+</application>
