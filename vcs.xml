@@ -6,6 +6,10 @@
           <option name="url" value="http://gitlab.ship-cheaper.com" />
           <option name="userName" value="egor.simonov@ship-cheaper.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.egorsima.com" />
+          <option name="userName" value="egor.simonov@gfk.com" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
