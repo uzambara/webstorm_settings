@@ -1,0 +1,34 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.ship-cheaper.com" />
+          <option name="userName" value="egor.simonov@ship-cheaper.com" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.egorsima.com" />
+          <option name="userName" value="egor.simonov@gfk.com" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.ocs.ru" />
+          <option name="userName" value="esimonov" />
+        </UrlAndUserName>
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Subject" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
+  </component>
+</application>
